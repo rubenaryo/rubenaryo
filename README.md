@@ -10,4 +10,4 @@
 -->
 
 ### About Me
-Hello, I'm Ruben, a software developer specializing in Game Development, Rendering in particular.
+Hello, I'm Ruben, a game engineer focusing on engine technologies, particularly in animation and graphics. I am currently pursuing a Master's degree at the University of Pennsylvania and was previously an engine programmer on The Sims 4 at Electronic Arts.
