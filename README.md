@@ -10,4 +10,4 @@
 -->
 
 ### About Me
-Hello, I'm Ruben, a game engineer focusing on engine technologies, particularly in animation and graphics. I am currently pursuing a Master's degree at the University of Pennsylvania and was previously an engine programmer on The Sims 4 at Electronic Arts.
+Hi, I'm Ruben, a game developer based in Philadelphia specializing in graphics engineering and parallel computing. With over five years of experience working with C++ on high-performance applications, I most recently worked on The Sims 4 at Electronic Arts. I'm currently pursuing graduate studies in computer graphics at the University of Pennsylvania and will be graduating this May.
