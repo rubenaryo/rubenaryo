@@ -10,4 +10,16 @@
 -->
 
 ### About Me
-Hi, I'm Ruben, a software engineer specializing in graphics engineering and parallel computing. With over five years of experience working with C++ on high-performance applications, I most recently worked on The Sims 4 at Electronic Arts. I'm currently pursuing graduate studies in computer graphics at the University of Pennsylvania and will be graduating this May.
+Hi, I'm Ruben, a software engineer specializing in high-performance computing, with a background in graphics engineering and game development.
+
+
+### 💼 Where I've worked
+- Susquehanna International Group (SIG)
+- Electronic Arts (EA)
+
+### 🎓 Where I've studied
+- University of Pennsylvania
+- Rochester Institute of Technology
+
+### 🎮 Titles
+- The Sims 4 (and various DLC)
